@@ -635,7 +635,22 @@ ul.side li a{
 	font-weight: 700;
 }
 
+button.CfPbutton{
+	font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    background-color: #3f6a4dff;
+    padding: 0.5em;
+    margin: 20px;
+    border: none;
+    border-radius: 5px;
+}
 
+button.CfPbutton a{
+	color:white
+}
 /*Sponsor section*/
 div#sponsor-section{
 	margin-top: 3em;
@@ -648,7 +663,7 @@ div.sponsors{
 div.sponsors h1.formaliseName{
 	font-family: 'Josefin Sans', sans-serif;
 	font-weight: 600;
-	margin: 0 0 40px 0;
+	margin: 0 0 0 0;
 }
 
 p.textRight{
